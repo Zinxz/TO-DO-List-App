@@ -9,7 +9,7 @@
             background-size: cover;
             min-height: 100vh;
             display: flex;
-            justify-content: center;
+            justify-content: flex-end;
             align-items: center;
             padding: 20px;
         }
@@ -20,7 +20,8 @@
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
             padding: 30px;
             width: 400px;
-            max-width: 90vw;
+            max-width: 45vw;
+            margin-right: 25%;
         }
          h1 {
             text-align: center;
